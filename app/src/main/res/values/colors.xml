@@ -3,4 +3,6 @@
     <color name="button_pressed">#ffff8989</color>
     <color name="button_text">#ffffff</color>
     <color name="background">#ff7d94eb</color>
+    <color name="background2">#ffcceb22</color>
+
 </resources>
